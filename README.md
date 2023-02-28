@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Javier, an enthusiast Data Science learner:bar_chart::books:, passionate about applying AI to take care of natural ecosystems and tackle climate change :evergreen_tree::evergreen_tree:
+I'm Javier, an enthusiast Data Scientist learner:bar_chart::books:, passionate about applying AI to take care of natural ecosystems and tackle climate change :evergreen_tree::evergreen_tree:
 
-In this account I'll sharing the resulting projects of my learning journey (and maybe more).
+In this account I'll sharing the projects of my learning journey (and maybe more).
 
 - 🔭 I’m currently working on my first **Individual Tree Detection project using LiDAR data**
-- 🌱 I’m currently learning: Dask, Xarray, GeoPandas, ArcGIS & Kubernetes
+- 🌱 I’m currently learning: Dask, Xarray, GeoPandas & Kubernetes
 - 👯 I’m looking to collaborate on **open-source projects looking to develop climate tech**
 - 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/jose-javier-vazquez-rapp/)
 
