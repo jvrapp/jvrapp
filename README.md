@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Javier, an enthusiast Data Scientist learner:bar_chart::books:, passionate about applying AI to take care of natural ecosystems and tackle climate change :evergreen_tree::evergreen_tree:
+I'm Javier, an enthusiast Data Science learner:bar_chart::books:, passionate about applying AI to take care of natural ecosystems and tackle climate change :evergreen_tree::evergreen_tree:
 
 In this account I'll sharing the projects of my learning journey (and maybe more).
 
